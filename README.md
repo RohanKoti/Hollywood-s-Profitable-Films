@@ -10,3 +10,6 @@ Areas of improvement for studios to increase profitability:
 1.	Diversify Genre Focus: Comedy is currently the most profitable genre, but studios could benefit from investing more in underperforming but potentially lucrative genres like animation and fantasy. Expanding into genres with growing audiences can lead to higher profitability.
 2.	Enhance Audience-Critic Alignment: Bridging the gap between audience scores and critic reviews by producing films that appeal to both groups could improve reputation and word-of-mouth marketing, driving higher box office returns.
 3.	Leverage Smaller Independent Films: Studios should explore more collaboration with independent filmmakers or smaller studios to diversify their portfolio with lower-budget, high-reward films. This could lead to higher margins and a broader audience reach.
+
+Dashboard
+![image](https://github.com/RohanKoti/Hollywood-s-Profitable-Films/blob/main/Ahollywood.PNG?raw=true)
